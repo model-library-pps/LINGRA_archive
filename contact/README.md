@@ -1,15 +1,7 @@
 **Author(s)**\
 Joost Wolf, Ad Schapendonk
 
-**Address**\
-WUR, Plant Production Systems, P.O. Box 430, 6700 AK Wageningen, The Netherlands
+Both the R version and the FORTRAN version of LINGRA are archive models. Archive models are not actively maintained and, in principle, PPS also does not provide support in using it. If you are nevertheless interested in this model, you could try to send an e-mail:
 
 **Email**\
-joost.wolf@wur.nl
-
-**Website**\
- Wageningen University
-group Plant Production systems
-
-
-[http://www.pps.wur.nl/UK/](http://www.pps.wur.nl/UK/)
+herman.berghuijs@wur.nl
